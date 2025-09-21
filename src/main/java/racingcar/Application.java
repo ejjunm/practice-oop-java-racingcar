@@ -24,3 +24,4 @@ public class Application {
 		View.getWinner(cars);
 	}
 }
+
